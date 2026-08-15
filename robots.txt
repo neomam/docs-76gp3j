@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-fyiu93.jnetoto87kek.cyou/sitemap.xml
